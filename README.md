@@ -13,3 +13,9 @@ Select the images folder
 Select the roms folder
 Select the output folder
 Select the process matches button
+
+Release version V2.0
+
+Now allows you to copy ROMS matching image names to the OUTPUT folder.
+
+![imagen](https://github.com/SpardaHunter/copy-matching-images/assets/155873668/2cd5808f-aaab-4ab1-9328-0ccf71e937f1)
